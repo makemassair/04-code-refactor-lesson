@@ -18,7 +18,7 @@ Web accessibility is increasingly important to help people with differing abilit
 
 ### Screenshot
 
-![image](/assets/images/screenshot.jpg)
+![image](../assets/images/screenshot.jpg)
 
 ### Deployed Application Link
 
