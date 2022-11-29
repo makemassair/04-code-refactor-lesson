@@ -20,7 +20,7 @@ Web accessibility is increasingly important to help people with differing abilit
 
 ![image](/assets/images/screenshot.jpg)
 
-### Deployed Application
+### Deployed Application Link
 
 View the deployed application for week 1's Office Hours challenge by visiting [link](https://makemassair.github.io/code-refactor-lesson)
 
